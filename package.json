@@ -1,0 +1,16 @@
+{
+  "name": "pdf-to-word-ui",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "styled-components": "^6.0.0",
+    "react-icons": "^4.10.1"
+  },
+  "scripts": {
+    "start": "npx serve -s build",
+    "build": "react-scripts build",
+    "dev": "react-scripts start"
+  }
+}
